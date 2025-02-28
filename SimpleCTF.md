@@ -129,6 +129,7 @@ Nos regresa una shell y ahora somos root
 ### Respuesta 13
 
 En el directorio /root/root.txt esta la root flag asi que la leemos con cat 
+
 ![Escaneo de puertos](Imagenes/SimpleCTF/26.PNG)
 
 
