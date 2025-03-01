@@ -38,6 +38,7 @@ El script nos muestra un usuario y una password
 ### Respuesta 1
 
 Sabemos que la maquina tiene abierto el puerto ssh asi que utilizamos el user y password que encontramos anteriormente para conectarnos a la maquina 
+
 ![Escaneo de puertos](Imagenes/TomGhost/10.PNG)
 
 Una vez dentro ejecutamos nos vamos al directorio home y ejecutamos el comando ls para listar el contenido.
