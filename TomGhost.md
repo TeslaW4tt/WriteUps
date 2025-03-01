@@ -49,9 +49,12 @@ Podemos ver que tenemos dos usuarios *merlin* y *skyfuck* asi que haremos el int
 Nos cambiamos exitosamente al directorio de *merlin*, listamos el contenido y podemos ver la primera flag 
 ![Escaneo de puertos](Imagenes/TomGhost/12.PNG)
 
+---
+
 ### Respuesta 2
 
 Regresando al directorio de *skyfuck* si listamos podemos ver que existen 2 archivos .pgp y .asc,los cuales son archivos encriptados 
+
 ![Escaneo de puertos](Imagenes/TomGhost/13.PNG)
 
 Para estos archivos utilizaremos nuestra maquina local atacante por lo que tenemos que descargarlos en nuestra maquina.
