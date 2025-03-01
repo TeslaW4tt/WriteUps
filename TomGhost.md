@@ -43,6 +43,7 @@ Sabemos que la maquina tiene abierto el puerto ssh asi que utilizamos el user y 
 
 Una vez dentro ejecutamos nos vamos al directorio home y ejecutamos el comando ls para listar el contenido.
 Podemos ver que tenemos dos usuarios *merlin* y *skyfuck* asi que haremos el intento de cambiarnos al directorio del usuario *merlin*
+
 ![Escaneo de puertos](Imagenes/TomGhost/11.PNG)
 
 
@@ -66,6 +67,7 @@ En nuestra maquina atacante obtenemos los dos archivos utilizando `wget`
 ![Escaneo de puertos](Imagenes/TomGhost/15.PNG)
 
 Una vez que tenemos  los archivos  ejecutamos el comando `pgp --decrypt credential` por lo que nos arroja la siguiente ventana 
+
 ![Escaneo de puertos](Imagenes/TomGhost/16.PNG)
 
 Es necesaria una contraseña para desencriptar el archivo asi que utilizaremos la herramienta de *john* para desencriptar 
